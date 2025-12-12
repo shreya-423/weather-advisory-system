@@ -4,6 +4,7 @@ A full-stack Weather Advisory System built using the MERN stack that provides re
 It also allows PDF report download, search history, and beautiful responsive UI.
 
 🚀 Features
+
 🔹 Weather Forecasting
 
 Current temperature, humidity, rainfall probability, wind speed
