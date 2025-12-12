@@ -70,25 +70,8 @@ Axios
 
 OpenWeather API
 
-📁 Project Structure
-weather-advisory-system/
-│
-├── backend/
-│   ├── routes/
-│   │   └── weather.js
-│   ├── server.js
-│   ├── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/WeatherDashboard.jsx
-│   │   ├── WeatherDashboard.css
-│   │   └── App.js
-│   ├── package.json
-│
-└── README.md
-
 🔧 Setup Instructions
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/weather-advisory-system.git
 
@@ -110,6 +93,7 @@ Backend runs at:
 http://localhost:5000
 
 ➡️ Frontend Setup (/frontend)
+
 Install dependencies:
 cd frontend
 npm install
